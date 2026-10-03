@@ -1,0 +1,40 @@
+{
+  "entity.achilles.ambient": {
+    "subtitle": "subtitles.achilles.ambient",
+    "sounds": [
+      "achilles:entity/achilles_ambient1",
+      "achilles:entity/achilles_ambient2",
+      "achilles:entity/achilles_ambient3"
+    ]
+  },
+  "entity.achilles.hurt": {
+    "subtitle": "subtitles.achilles.hurt",
+    "sounds": [
+      "achilles:entity/achilles_hurt"
+    ]
+  },
+  "entity.achilles.death": {
+    "subtitle": "subtitles.achilles.death",
+    "sounds": [
+      "achilles:entity/achilles_death"
+    ]
+  },
+  "entity.achilles.trip": {
+    "subtitle": "subtitles.achilles.trip",
+    "sounds": [
+      "achilles:entity/achilles_trip"
+    ]
+  },
+  "entity.achilles.get_up": {
+    "subtitle": "subtitles.achilles.get_up",
+    "sounds": [
+      "achilles:entity/achilles_getup"
+    ]
+  },
+  "entity.achilles.clang": {
+    "subtitle": "subtitles.achilles.clang",
+    "sounds": [
+      "achilles:entity/achilles_clang"
+    ]
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "feature": "achilles:statue",
+  "placement": [
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
